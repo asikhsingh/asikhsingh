@@ -1,5 +1,5 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://amritpalsingh.ca)
-
+[![MasterHead](https://gifdb.com/gif/ai-humanoid-girl-neon-0byngj723ojhu25b.html)](https://amritpalsingh.ca)
 https://gifdb.com/gif/ai-humanoid-girl-neon-0byngj723ojhu25b.html?embed=true
 <h1 align="center">Hi 👋, I'm Amritpal Singh</h1>
 <h3 align="center">UX Designer @ Stocate, Canada</h3>
