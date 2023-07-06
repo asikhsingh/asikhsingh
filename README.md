@@ -1,4 +1,4 @@
-<p>[![MasterHead](https://gifdb.com/images/high/ai-humanoid-girl-neon-0byngj723ojhu25b.gif)](https://amritpalsingh.ca) </p>
+[![MasterHead](https://media.licdn.com/dms/image/D4E12AQFaLSNiDpYV1g/article-cover_image-shrink_423_752/0/1686694179929?e=1694044800&v=beta&t=bh1uNvieTKrLGeMyvSXiiZ8Q_pPpUIko2tdlvTtKZmA)](https://amritpalsingh.ca)
 
 <h1 align="center">Hi 👋, I'm Amritpal Singh</h1>
 <h3 align="center">UX Designer @ Stocate, Canada</h3>
