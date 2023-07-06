@@ -1,5 +1,5 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
-[![MasterHead](https://globeecho.com/wp-content/uploads/2023/05/Do-we-need-a-UN-for-AI-2.gif)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Amritpal Singh</h1>
 <h3 align="center">UX Designer @ Stocate, Canada</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/asikhsingh/asikhsingh/assets/110954682/db2b5c09-d8b1-4327-b52b-0471e0eefea0">
