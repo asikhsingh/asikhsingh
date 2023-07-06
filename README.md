@@ -1,7 +1,7 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Amritpal Singh</h1>
 <h3 align="center">UX Designer @ Stocate, Canada</h3>
-<img align="right" alt="Coding" width="400" src="[https://dribbble.com/shots/6804436-Working-Men.jpg](https://dribbble.com/shots/6804436-Working-Men?utm_source=Clipboard_Shot&utm_campaign=prabhsng&utm_content=Working%20Men&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=prabhsng&utm_content=Working%20Men&utm_medium=Social_Share)">
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/6804436-Working-Men?utm_source=Clipboard_Shot&utm_campaign=prabhsng&utm_content=Working%20Men&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=prabhsng&utm_content=Working%20Men&utm_medium=Social_Share"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
