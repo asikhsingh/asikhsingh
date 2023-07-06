@@ -1,7 +1,7 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Amritpal Singh</h1>
 <h3 align="center">UX Designer @ Stocate, Canada</h3>
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/17j4y9iPmH74XTepiya3wx3drQwz7RpXz/view"/>
+https://drive.google.com/file/d/17j4y9iPmH74XTepiya3wx3drQwz7RpXz/view
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
