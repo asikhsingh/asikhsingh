@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Amritpal Singh</h1>
 <h3 align="center">UX Designer @ Stocate, Canada</h3>
 
-![Screenshot 2023-07-06 034226](https://github.com/asikhsingh/asikhsingh/assets/110954682/db2b5c09-d8b1-4327-b52b-0471e0eefea0)
+<img "![Screenshot 2023-07-06 034226](https://github.com/asikhsingh/asikhsingh/assets/110954682/db2b5c09-d8b1-4327-b52b-0471e0eefea0) ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
